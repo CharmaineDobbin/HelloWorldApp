@@ -1,0 +1,16 @@
+D:\BCAD3\bin\Debug\net5.0\BCAD3.exe
+D:\BCAD3\bin\Debug\net5.0\BCAD3.deps.json
+D:\BCAD3\bin\Debug\net5.0\BCAD3.runtimeconfig.json
+D:\BCAD3\bin\Debug\net5.0\BCAD3.runtimeconfig.dev.json
+D:\BCAD3\bin\Debug\net5.0\BCAD3.dll
+D:\BCAD3\bin\Debug\net5.0\ref\BCAD3.dll
+D:\BCAD3\bin\Debug\net5.0\BCAD3.pdb
+D:\BCAD3\obj\Debug\net5.0\BCAD3.csprojAssemblyReference.cache
+D:\BCAD3\obj\Debug\net5.0\BCAD3.GeneratedMSBuildEditorConfig.editorconfig
+D:\BCAD3\obj\Debug\net5.0\BCAD3.AssemblyInfoInputs.cache
+D:\BCAD3\obj\Debug\net5.0\BCAD3.AssemblyInfo.cs
+D:\BCAD3\obj\Debug\net5.0\BCAD3.csproj.CoreCompileInputs.cache
+D:\BCAD3\obj\Debug\net5.0\BCAD3.dll
+D:\BCAD3\obj\Debug\net5.0\ref\BCAD3.dll
+D:\BCAD3\obj\Debug\net5.0\BCAD3.pdb
+D:\BCAD3\obj\Debug\net5.0\BCAD3.genruntimeconfig.cache
